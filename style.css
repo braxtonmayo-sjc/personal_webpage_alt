@@ -75,7 +75,7 @@ main {
 
 .carousel {
   position: relative;
-  max-height: 800px;
+  max-height: 400px;
   max-width: 800px;
   margin: 20px auto;
 }
