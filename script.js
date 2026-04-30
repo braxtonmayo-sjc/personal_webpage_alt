@@ -32,4 +32,3 @@ function showSlides(n) {
 
   slides[slideIndex - 1].classList.add("active");
 }
-}
