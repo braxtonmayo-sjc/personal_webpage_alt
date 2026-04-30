@@ -28,6 +28,7 @@ body.dark {
     "photos photos photos"
     "photos photos photos"
     "ebay ebay hobbies"
+    "contact contact contact"
     "footer footer footer";
   grid-template-columns: 200px 1fr 1fr;
   grid-template-rows: 80px auto auto 60px; 
@@ -183,6 +184,7 @@ footer {
       "ebay"
       "ebay"
       "hobbies"
+      "contact"
       "footer";
     grid-template-columns: 1fr;
   }
