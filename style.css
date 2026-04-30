@@ -164,6 +164,13 @@ h1 {
   text-align: left;
 }
 
+.contact {
+  grid-area: contact;
+  background: #D3D3D3;
+  padding: 1rem;
+  text-align: left;
+}
+
 /* Footer */
 footer {
   grid-area: footer;
